@@ -16,20 +16,12 @@
 </p>
 
 ## Usage
-
-1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
-
-## 🙋 FAQ (optional)
-
--	Q: **_"Where can I find the doc?"_**
-	A: Run `:help theme`
+* TODO
 
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+- [Hamothy](https://github.com/sgoudham)
+- [Winston](https://github.com/nekowinston)
 
 &nbsp;
 
