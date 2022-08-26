@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/joeyschoblaska/base16/stargazers"><img src="https://img.shields.io/github/stars/joeyschoblaska/base16?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/joeyschoblaska/base16/issues"><img src="https://img.shields.io/github/issues/joeyschoblaska/base16?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/joeyschoblaska/base16/contributors"><img src="https://img.shields.io/github/contributors/joeyschoblaska/base16?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/joeyschoblaska/catppuccin-base16/stargazers"><img src="https://img.shields.io/github/stars/joeyschoblaska/catppuccin-base16?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/joeyschoblaska/catppuccin-base16/issues"><img src="https://img.shields.io/github/issues/joeyschoblaska/catppuccin-base16?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/joeyschoblaska/catppuccin-base16/contributors"><img src="https://img.shields.io/github/contributors/joeyschoblaska/catppuccin-base16?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
