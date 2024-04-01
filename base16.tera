@@ -1,0 +1,26 @@
+---
+whiskers:
+  version: 2.0.0
+  matrix:
+    - flavor
+  filename: "base16/{{flavor.identifier}}.yaml"
+---
+{%- set palette = flavor.colors -%}
+scheme: "Catppuccin {{ flavor.identifier | capitalize }}"
+author: "https://github.com/catppuccin/catppuccin"
+base00: "{{ palette.base.hex }}" # base
+base01: "{{ palette.mantle.hex }}" # mantle
+base02: "{{ palette.surface0.hex }}" # surface0
+base03: "{{ palette.surface1.hex }}" # surface1
+base04: "{{ palette.surface2.hex }}" # surface2
+base05: "{{ palette.text.hex }}" # text
+base06: "{{ palette.rosewater.hex }}" # rosewater
+base07: "{{ palette.lavender.hex }}" # lavender
+base08: "{{ palette.red.hex }}" # red
+base09: "{{ palette.peach.hex }}" # peach
+base0A: "{{ palette.yellow.hex }}" # yellow
+base0B: "{{ palette.green.hex }}" # green
+base0C: "{{ palette.teal.hex }}" # teal
+base0D: "{{ palette.blue.hex }}" # blue
+base0E: "{{ palette.mauve.hex }}" # mauve
+base0F: "{{ palette.flamingo.hex }}" # flamingo
